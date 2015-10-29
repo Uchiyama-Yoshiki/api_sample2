@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello UP</string>
+    <string name="press_button_to_connect">Press button to connect</string>
+    <string name="userText">Large Text</string>
+    <string name="textView">TOP</string>
+    <string name="textView1">New Text</string>
+    <string name="textview2">New Text</string>
+
+</resources>
