@@ -19,6 +19,5 @@ public class TopActivity extends Activity {
         Intent intent = getIntent();
         String data = intent.getStringExtra("keyword");
         text.setText(data);
-
     }
 }
