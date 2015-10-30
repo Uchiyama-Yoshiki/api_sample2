@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
+
 /**
  * Created by yoshiki on 2015/10/29.
  */
